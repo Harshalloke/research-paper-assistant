@@ -1,0 +1,5 @@
+streamlit
+pdfplumber
+scikit-learn
+nltk
+wordfreq
